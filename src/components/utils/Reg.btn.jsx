@@ -6,7 +6,7 @@ export default function RegBtn(props) {
   return (
     <motion.button
     onClick={()=>{
-        window.location.href = 'https://reactnavigation.org/docs/use-route/';
+        window.location.href = 'https://www.instagram.com/reel/C0M35e8IveI/?igshid=MzRlODBiNWFlZA%3D%3D';
     }}
     whileHover={{
         scale: 1.2,
